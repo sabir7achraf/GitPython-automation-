@@ -33,7 +33,7 @@
   },
   {
     "version": "22.0.0-ea.07",
-    "latest": true,
+    "latest": false,
     "download_base_url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-22.0.0-ea.07/",
     "files": [
       {
